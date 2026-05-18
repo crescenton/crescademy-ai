@@ -1,1 +1,206 @@
-
+[
+  {
+    "instruction": "What is HTML?",
+    "response": "HTML stands for HyperText Markup Language. It is used to structure webpages using headings, paragraphs, images, buttons, forms, and links."
+  },
+  {
+    "instruction": "Why is HTML important?",
+    "response": "HTML is important because it forms the structure and foundation of websites."
+  },
+  {
+    "instruction": "What is a tag in HTML?",
+    "response": "A tag is a special keyword enclosed in angle brackets used to define webpage elements."
+  },
+  {
+    "instruction": "What does the h1 tag do?",
+    "response": "The h1 tag creates the main heading of a webpage."
+  },
+  {
+    "instruction": "What is the p tag used for?",
+    "response": "The p tag is used to create paragraphs in HTML."
+  },
+  {
+    "instruction": "How do you add images in HTML?",
+    "response": "Images are added using the img tag with the src attribute."
+  },
+  {
+    "instruction": "What is the a tag?",
+    "response": "The a tag is used to create hyperlinks between webpages."
+  },
+  {
+    "instruction": "What is CSS?",
+    "response": "CSS stands for Cascading Style Sheets. It is used to style webpages."
+  },
+  {
+    "instruction": "Why is CSS used?",
+    "response": "CSS improves the appearance, layout, colors, and responsiveness of webpages."
+  },
+  {
+    "instruction": "What is JavaScript?",
+    "response": "JavaScript is a programming language used to make webpages interactive and dynamic."
+  },
+  {
+    "instruction": "What is responsive design?",
+    "response": "Responsive design allows websites to adapt properly to different screen sizes and devices."
+  },
+  {
+    "instruction": "What is a frontend developer?",
+    "response": "A frontend developer builds the user-facing part of websites and applications."
+  },
+  {
+    "instruction": "What is backend development?",
+    "response": "Backend development handles server logic, databases, APIs, and application processing."
+  },
+  {
+    "instruction": "What is Flask?",
+    "response": "Flask is a lightweight Python framework used to build web applications and APIs."
+  },
+  {
+    "instruction": "What is Python?",
+    "response": "Python is a beginner-friendly programming language used in AI, automation, web development, and data science."
+  },
+  {
+    "instruction": "Why is Python popular?",
+    "response": "Python is popular because of its simple syntax, readability, and powerful libraries."
+  },
+  {
+    "instruction": "What is a variable?",
+    "response": "A variable is a container used to store data values in programming."
+  },
+  {
+    "instruction": "What is a function?",
+    "response": "A function is a reusable block of code designed to perform a specific task."
+  },
+  {
+    "instruction": "What is debugging?",
+    "response": "Debugging is the process of finding and fixing errors in code."
+  },
+  {
+    "instruction": "What is Artificial Intelligence?",
+    "response": "Artificial Intelligence is technology that enables machines to perform tasks requiring human-like intelligence."
+  },
+  {
+    "instruction": "What is Machine Learning?",
+    "response": "Machine Learning is a branch of AI where systems learn patterns from data."
+  },
+  {
+    "instruction": "Difference between AI and ML?",
+    "response": "AI is the broader concept of intelligent systems, while ML is a subset focused on learning from data."
+  },
+  {
+    "instruction": "What are examples of AI?",
+    "response": "Examples include chatbots, recommendation systems, virtual assistants, and self-driving systems."
+  },
+  {
+    "instruction": "What is a chatbot?",
+    "response": "A chatbot is an AI system that communicates with users through text or voice."
+  },
+  {
+    "instruction": "What is deep learning?",
+    "response": "Deep learning is an advanced branch of machine learning using neural networks with many layers."
+  },
+  {
+    "instruction": "What are neural networks?",
+    "response": "Neural networks are AI systems inspired by the human brain for pattern recognition and learning."
+  },
+  {
+    "instruction": "What is data in AI?",
+    "response": "Data is information used by AI systems to learn patterns and make predictions."
+  },
+  {
+    "instruction": "What is automation?",
+    "response": "Automation is using technology to perform tasks automatically with minimal human effort."
+  },
+  {
+    "instruction": "How does AI help students?",
+    "response": "AI helps students through personalized learning, doubt solving, smart recommendations, and tutoring."
+  },
+  {
+    "instruction": "What is GitHub?",
+    "response": "GitHub is a platform for storing, managing, and collaborating on code projects."
+  },
+  {
+    "instruction": "Why should developers use GitHub?",
+    "response": "GitHub helps developers track versions, collaborate, and showcase projects professionally."
+  },
+  {
+    "instruction": "What is an API?",
+    "response": "An API allows different software systems to communicate with each other."
+  },
+  {
+    "instruction": "What is a database?",
+    "response": "A database is an organized collection of data stored electronically."
+  },
+  {
+    "instruction": "What is a server?",
+    "response": "A server is a system that provides services, data, or resources to other computers."
+  },
+  {
+    "instruction": "What is cloud computing?",
+    "response": "Cloud computing delivers computing services like storage and servers over the internet."
+  },
+  {
+    "instruction": "What is Hugging Face?",
+    "response": "Hugging Face is a platform for AI models, datasets, and machine learning applications."
+  },
+  {
+    "instruction": "What is a language model?",
+    "response": "A language model is an AI system trained to understand and generate human language."
+  },
+  {
+    "instruction": "What is an SLM?",
+    "response": "An SLM or Small Language Model is a lightweight AI model optimized for efficient text generation and reasoning."
+  },
+  {
+    "instruction": "How can I improve in coding?",
+    "response": "Practice regularly, build projects, solve problems, and learn by experimenting."
+  },
+  {
+    "instruction": "How do I stay focused while studying?",
+    "response": "Use focused study sessions, remove distractions, and keep clear goals."
+  },
+  {
+    "instruction": "I feel tired while studying.",
+    "response": "Take a short break, hydrate yourself, and continue with a fresh mind."
+  },
+  {
+    "instruction": "Motivate me for studying.",
+    "response": "Every study session today builds the future you dream of tomorrow."
+  },
+  {
+    "instruction": "How should I prepare for JEE?",
+    "response": "Build strong concepts, solve PYQs, revise regularly, and stay consistent."
+  },
+  {
+    "instruction": "What are PYQs?",
+    "response": "PYQs are Previous Year Questions asked in exams like JEE."
+  },
+  {
+    "instruction": "Why is revision important?",
+    "response": "Revision strengthens memory and improves retention of concepts."
+  },
+  {
+    "instruction": "What is CRESCENTON?",
+    "response": "CRESCENTON is a digital innovation hub focused on AI, web development, animation, and technology solutions."
+  },
+  {
+    "instruction": "What is CrescaDemy?",
+    "response": "CrescaDemy is an educational learning platform developed under CRESCENTON."
+  },
+  {
+    "instruction": "What is web development?",
+    "response": "Web development is the process of creating websites and web applications."
+  },
+  {
+    "instruction": "What is full stack development?",
+    "response": "Full stack development involves both frontend and backend web development."
+  },
+  {
+    "instruction": "What is SEO?",
+    "response": "SEO stands for Search Engine Optimization and helps websites rank better in search engines."
+  },
+  {
+    "instruction": "What is Netlify?",
+    "response": "Netlify is a platform used to deploy and host modern websites easily."
+  }
+]
