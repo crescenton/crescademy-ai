@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>CrescaDemy AI Tutor</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>CrescaDemy AI Tutor</h1>
+
+        <p class="subtitle">
+            Ask doubts from your courses
+        </p>
+
+        <form method="POST">
+
+            <textarea
+                name="question"
+                placeholder="Ask your question..."
+                required></textarea>
+
+            <button type="submit">
+                Ask AI
+            </button>
+
+        </form>
+
+        {% if answer %}
+
+        <div class="response">
+
+            <h2>AI Response</h2>
+
+            <p>{{ answer }}</p>
+
+        </div>
+
+        {% endif %}
+
+    </div>
+
+</body>
+
+</html>
