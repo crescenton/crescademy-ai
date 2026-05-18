@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+sentence-transformers
+chromadb
+beautifulsoup4
+requests
+accelerate
